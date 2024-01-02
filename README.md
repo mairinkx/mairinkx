@@ -1,4 +1,4 @@
-### Prazer! Eu sou o A Mairink 🧠
+### Prazer! Eu sou o Mairink 🧠
 
 ![Github Status](https://github-readme-stats.vercel.app/api?username=mairinkx&theme=midnight-purple&show_icons=true)
 
